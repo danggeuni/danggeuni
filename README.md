@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=A3DCBE&height=350&section=header&text=Danggeuni's%20hub&fontSize=90)
 
 
-현재 공부중인 주니어 백엔드 개발자입니다.
-Email - duomegaman@hanmail.net
+현재 공부중인 주니어 백엔드 개발자입니다.   
+Email - duomegaman@hanmail.net   
 Study and Portfolio - [notion link](https://danggeuni.notion.site/STUDY-f129ac65f7714219ab0b15fd0fbb0e7d?pvs=4)
 
 ##### backend
